@@ -37,4 +37,4 @@ class BSTNode {
   }
 }
 
-export default BSTNode;
+module.exports = BSTNode;
